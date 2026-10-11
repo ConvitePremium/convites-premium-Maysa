@@ -46,7 +46,7 @@ window.CONFIG = {
   // Quando estiver false, o hotspot, a tela e a opção do editor são removidos.
   telas: {
     video: true,
-    whatsapp: true,
+    whatsapp: false,
     localizacao: true,
     presentes: true,
     dresscode: true,
@@ -100,7 +100,6 @@ window.CONFIG = {
   //   left/top: canto superior esquerdo do botão
   //   width/height: tamanho do botão
     hotspots: {
-        confirm: { left:19.72444020746878, top:62.19215699393173, width:15.963035699920129, height:8.57238650880756 },
         map: { left:42.12689116010327, top:62.53735396027227, width:15.611963461541478, height:8.522989476077747 },
         gift: { left:64.21143232016789, top:62.641618877615265, width:16.091044953075077, height:8.643484137471408 },
         dress: { left:31.488805411341854, top:73.91896123558277, width:15.682105506190094, height:8.298251846116688 },
